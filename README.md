@@ -70,7 +70,7 @@ The dataset used in this analysis is related to cryptocurrency market data. The 
     
     Below are the scatter plots showing the clustering results for the original data and PCA-reduced data side by side. These plots visualize how the cryptocurrencies are grouped based on the features.
     
-    ![Original Data Clusters](./Images/OG_AND_PGA_scatter.png)
+    ![Clustering Scatter Plot](./Images/OG_AND_PCA_scatter.png)
 
 
 ## Results
