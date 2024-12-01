@@ -64,13 +64,13 @@ The dataset used in this analysis is related to cryptocurrency market data. The 
     
     Below is the layered elbow curve showing the inertia values for different k-values, which was used to determine the optimal number of clusters.
     
-    ![Elbow Curve](./images/OG_PGA_elbow.png)
+    ![Elbow Curve](./Images/OG_PGA_elbow.png)
     
     ### Clustering Results
     
     Below are the scatter plots showing the clustering results for the original data and PCA-reduced data side by side. These plots visualize how the cryptocurrencies are grouped based on the features.
     
-    ![Original Data Clusters](./images/OG_AND_PGA_scatter.png)
+    ![Original Data Clusters](./Images/OG_AND_PGA_scatter.png)
 
 
 ## Results
