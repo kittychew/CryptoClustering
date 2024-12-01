@@ -77,3 +77,8 @@ The dataset used in this analysis is related to cryptocurrency market data. The 
 
 - **Elbow Method**: After applying the elbow method, the optimal number of clusters for the dataset was found to be **4**. This suggests that there are 4 distinct groups of cryptocurrencies with similar market behaviors.
 - **Cluster Visualization**: The scatter plot based on the PCA components shows how cryptocurrencies are grouped together based on the clusters formed by K-means.
+
+
+## Credits
+
+- Special thanks to ChatGPT (OpenAI) for providing assistance with understanding and troubleshooting the code throughout the project.
