@@ -64,7 +64,7 @@ The dataset used in this analysis is related to cryptocurrency market data. The 
     
     Below is the layered elbow curve showing the inertia values for different k-values, which was used to determine the optimal number of clusters.
     
-    ![Elbow Curve](./Images/OG_PGA_elbow.png)
+    ![Elbow Curve](./Images/OG_PCA_elbow.png)
     
     ### Clustering Results
     
